@@ -1,8 +1,8 @@
 ---
 layout: home
-title: Our research project
-description: Towards developing a theme for research project websites
-background: /assets/img/chuttersnap-146799-unsplash.jpg
+title: DFG trilateral research project IMAP
+description: Integrating Microwave Link Data For Analysis of Precipitation in Complex Terrain - Theoretical Aspects and Hydrometeorological Applications
+background: /assets/img/wadi_zeelim_low_res.jpg
 permalink: /
 ---
 
