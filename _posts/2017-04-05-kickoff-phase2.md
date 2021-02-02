@@ -9,5 +9,5 @@ categories: [Meetings]
 bla 
 
 {: .col-md-10 .m-auto}
-![group picture](/assets/img/kickoff_phase2_group_photo.jpg)
+![group picture](/assets/img/kickoff_phase2_group_photo.png)
 _Group picture at rooftop of KIT Campus Alpin_
