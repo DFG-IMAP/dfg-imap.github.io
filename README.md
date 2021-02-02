@@ -1,6 +1,6 @@
 # IMAP - Integrating Microwave Link Data For Analysis of Precipitation in Complex Terrain: Theoretical Aspects and Hydrometeorological Applications
 
-IMAP focuses on improving rainfall estimation from commercial microwave link (CML) data to subsquently improve modeling and forecasting flooding eventes.
+IMAP focuses on improving rainfall estimation from commercial microwave link (CML) data to subsequently improve modeling and forecasting flooding events.
 
 IMAP [is funded by the DFG (Deutsche Forschungsgemeinschaft)](https://gepris.dfg.de/gepris/projekt/254695484?contrast=1&language=en) with a duration of 5 years from 2014 till 2019.
 
