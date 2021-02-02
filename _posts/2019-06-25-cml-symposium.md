@@ -3,7 +3,7 @@ title: IMAP CML Symposium
 description: The [Symposium on the hydrometeorological usage of data from commercial microwave link networks ](https://indico.scc.kit.edu/e/hymet_cml_symposium_2019) was successfully held at KIT.
 background: /assets/img/cml_symposium_banner.png
 author: [Christian Chwala]
-categories: [Meetings]
+categories: [Meeting]
 ---
 
 More than 40 participants from academia, industry, and national meteorological and hydrological services have gathered in Garmisch-Partenkirchen to hold the first [Symposium on the hydrometeorological usage of data from commercial microwave link networks ](https://indico.scc.kit.edu/e/hymet_cml_symposium_2019).
