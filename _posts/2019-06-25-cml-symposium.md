@@ -9,7 +9,7 @@ categories: [Meetings]
 More than 40 participants from academia, industry, and national meteorological and hydrological services have gathered in Garmisch-Partenkirchen to hold the first [Symposium on the hydrometeorological usage of data from commercial microwave link networks ](https://indico.scc.kit.edu/e/hymet_cml_symposium_2019).
 
 {: .col-md-8 .m-auto}
-[link text]({{ site.baseurl }}{% link /assets/img/cml_symposium_group_photo.jpg %})
+![group picture]({{ site.baseurl }}{% link /assets/img/cml_symposium_group_photo.jpg %})
 _Group picture at KIT Campus Alpin_
 
 The main objectives of the symposium have been to:
