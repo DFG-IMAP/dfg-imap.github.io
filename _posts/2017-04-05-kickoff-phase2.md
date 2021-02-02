@@ -1,7 +1,7 @@
 ---
 title: IMAP Kick-off phase 2
 description: The kick-off meeting for IMAP phase 2 was held at KIT
-background: /assets/img/kickoff_phase2_banner.png
+background: /assets/img/kickoff_phase2_banner.jpg
 author: [Christian Chwala]
 categories: [Meetings]
 ---
