@@ -16,4 +16,5 @@ _Group picture at the Everest Hotel in Beit Jala_
 Map https://upload.wikimedia.org/wikipedia/commons/f/fd/West_Bank_Access_Restrictions.pdf
 
 Image source:
-* Banner photo https://commons.wikimedia.org/wiki/File:Bayt_Jala_and_Tunnels_Road_Panorama.jpg
+* Banner photo showing Beit Jala and road 60 [(`https://commons.wikimedia.org/wiki/File:Bayt_Jala_and_Tunnels_Road_Panorama.jpg`)](https://commons.wikimedia.org/wiki/File:Bayt_Jala_and_Tunnels_Road_Panorama.jpg)
+* Group picture (Thomas Rummler, University of Augsburg)
