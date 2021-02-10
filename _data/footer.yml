@@ -4,7 +4,7 @@
 # Columns (the more you add, the narrower they will be)
 columns:
   - description: > # E.g. funding acknowledgement. Can be Markdown
-      This was founded by the [Deutsche Forschungsgemeinschaft (DFG)]((https://gepris.dfg.de/gepris/projekt/254695484?contrast=1&language=en))
+      This research project was founded by the [Deutsche Forschungsgemeinschaft (DFG)]((https://gepris.dfg.de/gepris/projekt/254695484?contrast=1&language=en))
     links:
 
 # Small print license statement to add at the bottom of the footer. Can be Markdown
