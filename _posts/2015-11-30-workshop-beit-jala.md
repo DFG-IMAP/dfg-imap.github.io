@@ -1,7 +1,7 @@
 ---
 title: IMAP workshop Beit Jala
 description: Joint workshop held in Beit Jala to discuss progress and interactions
-background: /assets/img/map_beit_jala.png
+background: /assets/img/beit_jala_panorama.png
 author: [Christian Chwala]
 categories: [Meeting]
 ---
