@@ -3,8 +3,6 @@
 - name: Dr. Christian Chwala
   role: Postdoc and project coordinator # Will appear next to name
   image: assets/img/team_photo/chwala.jpg # Can be external link
-  description: > # Can be Markdown
-    Responsible for extending the CML data acquisition system and the data processing capabilities at KIT.
   orcid: 0000-0002-4583-3327
   email: christian.chwala@kit.edu
   github: cchwala
@@ -19,7 +17,7 @@
 
 - name: Dr. Uwe Siart
   role: Project PI at TU Munich (TUM), Germany
-  image: assets/img/team_photo/siar.png
+  image: assets/img/team_photo/siart.png
   description: >
     [...add text](https://www.ei.tum.de/en/hft/people/scientific-staff/uwe-siart/)
 
@@ -31,37 +29,37 @@
 
 - name: Dr. Sameer Shadeed
   role: Project PI at An-Najah National University (ANU), Nablus, Palestine
-  image: assets/img/leela_artem-kovalev-1403404-unsplash.jpg
+  image: assets/img/team_photo/shadeed.png
   description: >
     ... add text
 
 - name: Prof. Dr. Hagit Messer
   role: Project PI at Tel Aviv University (TAU), Tel Aviv, Israel
-  image: assets/img/leela_artem-kovalev-1403404-unsplash.jpg
+  image: assets/img/team_photo/messer.png
   description: >
     ... add text
 
 - name: Prof. Dr. Pinhas Alpert, Tel Aviv University (TAU), Tel Aviv, Israel
   role: Project PI at Tel Aviv University (TAU), Tel Aviv, Israel
-  image: assets/img/leela_artem-kovalev-1403404-unsplash.jpg
+  image: assets/img/team_photo/alpert.png
   description: >
     ... add text
 
 - name: Dr. Alon Rimmer
   role: Project PI at Kinneret Limnological Laboratory (KLL), Migdal, Israel
-  image: assets/img/leela_artem-kovalev-1403404-unsplash.jpg
+  image: assets/img/team_photo/rimmer.png
   description: >
     ... add text
 
 - name: Prof. Dr. Erick Fredj
   role: Project PI at The Jerusalem College of Technology (JCT), Jerusalem, Israel
-  image: assets/img/leela_artem-kovalev-1403404-unsplash.jpg
+  image: assets/img/team_photo/fredj.png
   description: >
     ... add text
 
 - name: Dr. Amir Givati
   role: Associated partern at Israel Hydrological Service (IHS), Jerusalem, Israel
-  image: assets/img/leela_artem-kovalev-1403404-unsplash.jpg
+  image: assets/img/team_photo/givati.png
   description: >
     ... add text
 
