@@ -2,7 +2,7 @@
 
 - name: Dr. Christian Chwala
   role: Postdoc and project coordinator # Will appear next to name
-  image: assets/img/team_photo_chwala.jpg # Can be external link
+  image: assets/img/team_photo/chwala.jpg # Can be external link
   description: > # Can be Markdown
     Responsible for extending the CML data acquisition system and the data processing capabilities at KIT.
   orcid: 0000-0002-4583-3327
@@ -12,20 +12,20 @@
 
 - name: Prof. Dr. Harald Kunstman
   role: Project PI at Karlsruhe Institute of Technology (KIT), Campus Alpin, Germany
-  image: assets/img/leela_artem-kovalev-1403404-unsplash.jpg
+  image: assets/img/team_photo/kunstmann.png
   description: >
     Professor for [Regional Climate and Hydrology at the University of Augsurg](https://www.uni-augsburg.de/en/fakultaet/fai/geo/prof/georkl/uber-uns/h-kunstmann/) 
     and head of the department [Regional Climate Systems](https://www.imk-ifu.kit.edu/english/regional-climate-systems.php).
 
 - name: Dr. Uwe Siart
   role: Project PI at TU Munich (TUM), Germany
-  image: assets/img/leela_artem-kovalev-1403404-unsplash.jpg
+  image: assets/img/team_photo/siar.png
   description: >
     [...add text](https://www.ei.tum.de/en/hft/people/scientific-staff/uwe-siart/)
 
 - name: Prof. Dr. Anan Jayyousi
   role: Project PI at An-Najah National University (ANU), Nablus, Palestine
-  image: assets/img/leela_artem-kovalev-1403404-unsplash.jpg
+  image: assets/img/team_photo/jayyousi.png
   description: >
     ... add text
 
