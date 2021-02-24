@@ -1,5 +1,5 @@
 ---
-title: Summary
+title: Overview
 description: IMAP project summary and objectives
 background: /assets/img/wadi_zeelim_low_res.jpg
 permalink: /about/
