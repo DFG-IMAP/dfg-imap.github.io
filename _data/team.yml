@@ -11,60 +11,39 @@
 - name: Prof. Dr. Harald Kunstman
   role: Project PI at Karlsruhe Institute of Technology (KIT), Campus Alpin, Germany
   image: assets/img/team_photo/kunstmann.png
-  description: >
-    Professor for [Regional Climate and Hydrology at the University of Augsurg](https://www.uni-augsburg.de/en/fakultaet/fai/geo/prof/georkl/uber-uns/h-kunstmann/) 
-    and head of the department [Regional Climate Systems](https://www.imk-ifu.kit.edu/english/regional-climate-systems.php).
 
 - name: Dr. Uwe Siart
   role: Project PI at TU Munich (TUM), Germany
   image: assets/img/team_photo/siart.png
-  description: >
-    [...add text](https://www.ei.tum.de/en/hft/people/scientific-staff/uwe-siart/)
 
 - name: Prof. Dr. Anan Jayyousi
   role: Project PI at An-Najah National University (ANU), Nablus, Palestine
   image: assets/img/team_photo/jayyousi.png
-  description: >
-    ... add text
 
 - name: Dr. Sameer Shadeed
   role: Project PI at An-Najah National University (ANU), Nablus, Palestine
   image: assets/img/team_photo/shadeed.png
-  description: >
-    ... add text
 
 - name: Prof. Dr. Hagit Messer
   role: Project PI at Tel Aviv University (TAU), Tel Aviv, Israel
   image: assets/img/team_photo/messer.png
-  description: >
-    ... add text
 
 - name: Prof. Dr. Pinhas Alpert, Tel Aviv University (TAU), Tel Aviv, Israel
   role: Project PI at Tel Aviv University (TAU), Tel Aviv, Israel
   image: assets/img/team_photo/alpert.png
-  description: >
-    ... add text
 
 - name: Dr. Alon Rimmer
   role: Project PI at Kinneret Limnological Laboratory (KLL), Migdal, Israel
   image: assets/img/team_photo/rimmer.png
-  description: >
-    ... add text
 
 - name: Prof. Dr. Erick Fredj
   role: Project PI at The Jerusalem College of Technology (JCT), Jerusalem, Israel
   image: assets/img/team_photo/fredj.png
-  description: >
-    ... add text
 
 - name: Dr. Amir Givati
   role: Associated partern at Israel Hydrological Service (IHS), Jerusalem, Israel
   image: assets/img/team_photo/givati.png
-  description: >
-    ... add text
 
 - name: Dr. Jörg Seltmann
   role: Associated partern at German Weather Service (DWD), Hoher Peißenberg, Germany
   image: assets/img/leela_artem-kovalev-1403404-unsplash.jpg
-  description: >
-    ... add text
