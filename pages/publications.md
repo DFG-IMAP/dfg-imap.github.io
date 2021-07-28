@@ -44,7 +44,9 @@ Silver, M., Karnieli, A., Ginat, H., Meiri, E., and Fredj, E.: An innovative met
 
 Silver, M., Karnieli, A., Marra, F., and Fredj, E.: An Evaluation of Weather Radar Adjustment Algorithms Using Synthetic Data, Hydrology, Volume 576, September 2019, Pages 408-421 https://doi.org/10.1016/j.jhydrol.2019.06.064, 2019.
 
-Silver, M., Svoray, T.,Karnieli, A.,Fredj, E.: Improving weather radar precipitation maps: A fuzzy logic approach, Atmospheric Research,  Volume 234, 104710   https://doi.org/10.1016/j.atmosres.2019.104710 , 2020.
+Silver, M., Svoray, T., Karnieli, A.,Fredj, E.: Improving weather radar precipitation maps: A fuzzy logic approach, Atmospheric Research,  Volume 234, 104710   https://doi.org/10.1016/j.atmosres.2019.104710 , 2020.
+
+Silver, M., Karnieli, A., Fredj, E.: Improved Gridded Precipitation Data Derived from Microwave Link Attenuation, Remote Sensing, 13, 2953. https://doi.org/10.3390/rs13152953, 2021.
 
 Smiatek, G., Keis, F., Chwala, C., Fersch, B., and Kunstmann, H.: Potential of commercial microwave link network derived rainfall for river runoff simulations. Environmental Research Letters, 12(3), 034026, https://doi.org/10.1088/1748-9326/aa5f46, 2017.
 
